@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gaurav0111
+- 👋 Hi, I’m Gaurav.Garwal
 - 👀 I’m interested in python programming and data analysis
 - 🌱 I’m currently learning python for data analysis
 - 💞️ I’m looking to collaborate on 
