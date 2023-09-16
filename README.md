@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gaurav.Garwal
-- 👀 I’m interested in python programming and data analysis
-- 🌱 I’m currently learning python for data analysis
+- 👀 I’m interested in web development using MERN
+- 🌱 I’m currently learning MERN web development
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me garwalgaurav1@gmail.com
 
